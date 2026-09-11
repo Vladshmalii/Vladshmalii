@@ -1,8 +1,11 @@
-<h1 align="center">Vladislav Shmalii</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=190&section=header&text=Vladislav%20Shmalii&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Vladislav Shmalii — Backend Developer · AI Engineer"/>
+</p>
 
 <p align="center">
-  <b>Backend Developer &nbsp;·&nbsp; AI Engineer</b><br/>
-  Python · FastAPI · Django · LLM &amp; Voice Agents · Event-Driven Systems
+  <a href="https://github.com/Vladshmalii">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+backends+with+FastAPI+%26+Django;LLM+agents+%C2%B7+Voice+AI+%C2%B7+Computer+Vision;Turning+routine+into+automation" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
@@ -59,8 +62,14 @@ to real-time voice agents and computer-vision services.
 - **Automate the routine** — machines handle repetition, people build
 - **Observability and security by design** — not added at the end
 
----
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vladshmalii/Vladshmalii/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vladshmalii/Vladshmalii/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Vladshmalii/Vladshmalii/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 <p align="center">
-  <sub>Open to backend and AI engineering projects — feel free to reach out.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:1f6feb&height=110&section=footer" width="100%" alt=""/>
 </p>
