@@ -64,12 +64,14 @@ Specialization: LLM applications, RAG, AI assistants and agents, voice AI, compu
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Call Analyzer**](https://github.com/Vladshmalii/call_analyzer) | Quality control for sales calls: pulls recordings from Google Drive, transcribes locally, scores manager conversations with an LLM | FastAPI · Celery · faster-whisper · Groq · PostgreSQL |
-| [**AI Pizza Ordering Agent**](https://github.com/Vladshmalii/ai-pizza-ordering-agent) | Real-time voice assistant that talks to customers, presents the menu and places orders | LiveKit Agents · OpenAI Realtime API |
-| [**Twitch Auto-Clip Bot**](https://github.com/Vladshmalii/twitch-auto-clip-bot) | Detects stream highlights from chat velocity, audio and video signals and clips them automatically | TwitchIO · YOLO11 · OpenCV · Librosa · FastAPI |
+| [**Adelante CRM**](https://github.com/Vladshmalii/adelante-crm-frontend) | Multi-tenant SaaS CRM for salon chains: calendar and booking, staff, finances, inventory, gift certificates, reports. Admin, Bot and public Booking APIs, per-salon sharded databases, real-time WebSocket notifications, Telegram bot, CI/CD deploy | FastAPI · SQLAlchemy · PostgreSQL · Celery · Redis · React 19 · TypeScript · aiogram · GitHub Actions |
+| [**Allo AI (Voxline)**](https://github.com/Vladshmalii/voxline) | Multi-tenant platform for AI voice agents that take and place phone calls: telephony media pipelines, per-organization databases, campaigns, call analysis, admin panel and landing | FastAPI · Pipecat · taskiq · PostgreSQL · Redis · React · Docker |
+| [**Tochno**](https://github.com/Vladshmalii/tochno) | Multi-tenant SaaS for AI document processing and accounting: invoice and act extraction with validation, counterparty reconciliation, reports, RAG assistant, webhooks and Telegram bot | FastAPI · React · TypeScript · PostgreSQL · Docker |
+| [**Call Analyzer**](https://github.com/Vladshmalii/call_analyzer) | AI quality control for sales calls: pulls recordings from Google Drive, transcribes locally, scores manager conversations with an LLM | FastAPI · Celery · faster-whisper · Groq · PostgreSQL |
+| [**Twitch Auto-Clip Bot**](https://github.com/Vladshmalii/twitch-auto-clip-bot) | Detects stream highlights from chat velocity, audio and video signals and creates clips automatically | TwitchIO · YOLO11 · OpenCV · Librosa · FastAPI |
 | [**Highlight Detector**](https://github.com/Vladshmalii/highlight-detector) | Finds highlights in CS2 and Dota 2 gameplay with computer vision, OCR and audio analysis | FastAPI · Celery · OpenCV · EasyOCR · FFmpeg |
+| [**AI Pizza Ordering Agent**](https://github.com/Vladshmalii/ai-pizza-ordering-agent) | Real-time voice assistant that talks to customers, presents the menu and places orders | LiveKit Agents · OpenAI Realtime API |
 | [**Events Analytics**](https://github.com/Vladshmalii/events-analytics) | High-throughput event collection API with a hot / cold storage split | FastAPI · PostgreSQL · ClickHouse · Redis |
-| [**AI Realtor Bot**](https://github.com/Vladshmalii/test_chatbot-AI-realtor) | Telegram bot for conversational real-estate search in Ukrainian | aiogram · PostgreSQL · Google Sheets |
 | [**N5Deal Marketplace**](https://github.com/Vladshmalii/Marketplace-Prototype) | Working prototype of a marketplace for M&A deals and financial assets | Next.js · Prisma · Zod |
 
 <br/>
